@@ -31,3 +31,5 @@ Per raggiungere questo risultato, segui queste istruzioni:
 2. Aggiungi un pulsante per svuotare il carrello
 3. Crea una pagine prodotto: quando l’utente clicca sul libro, deve essere portato ad un’altra pagine. Passa l’ASIN del libro come query nell’URL
 4. Nella pagina prodotto, mostra i dettagli del libro con l’ASIN corrispondente usando questo endpoint: `https://striveschool-api.herokuapp.com/books/IL TUO ASIN QUI`
+
+![Schermata 2023-04-03 alle 20 51 51](https://user-images.githubusercontent.com/117526559/229600488-ebf11c29-fd49-4f7f-8553-ef23e4f83c04.png)
